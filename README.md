@@ -1,5 +1,7 @@
 #This is LSTM application on CPU usage Dataset#
 
+## UNZIP THE DATA FILES BEFORE RUNNING THE CODE ##
+
 Dataset URL :http://gwa.ewi.tudelft.nl/datasets/gwa-t-1-das2
 Fetched Date: 24th Dec 2019
 
